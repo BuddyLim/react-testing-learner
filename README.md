@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This repo serves as a baseline understanding to how we can test React components and between each other based on Chinapress' Mywheels website
 - Current flow tested:
-  - Login
+  - Login (under index.login.test.js)
 
 ## Available Scripts
 
